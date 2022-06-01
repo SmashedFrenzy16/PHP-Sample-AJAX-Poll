@@ -1,2 +1,2 @@
 # PHP Sample AJAX Poll
-This is a sample PHP AJAX poll. Slight help given from the internet.
+This is a sample PHP AJAX poll. Help given from the internet.
